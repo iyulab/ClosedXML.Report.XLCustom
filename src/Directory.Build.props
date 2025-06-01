@@ -1,0 +1,21 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>preview</LangVersion>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>0.2.12</Version>
+    <Authors>iyulab</Authors>
+    <Company>Iyulab Corporation</Company>
+    <Owners>iyulab</Owners>
+    <Copyright>Copyright (c) Iyulab Corporation 2025.</Copyright>
+    <RepositoryUrl>https://github.com/iyulab/ClosedXML.Report.XLCustom</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/iyulab/ClosedXML.Report.XLCustom</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/iyulab-rnd/public/main/images/iyulab_128.png</PackageIconUrl>
+    <PackageTags>closedxml</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="../../README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+</Project>
