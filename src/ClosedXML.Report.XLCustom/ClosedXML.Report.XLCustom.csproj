@@ -5,11 +5,12 @@
     <LangVersion>latest</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Title>ClosedXML.Report.XLCustom</Title>
+    <PackageId>Iyulab.ClosedXML.Report</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
     <None Include="..\..\README.md" Link="README.md" />
+    <None Include="..\..\logo.png" Link="logo.png" />
   </ItemGroup>
 
   <ItemGroup>

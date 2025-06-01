@@ -11,6 +11,7 @@
     <RepositoryUrl>https://github.com/iyulab/ClosedXML.Report.XLCustom</RepositoryUrl>
     <PackageProjectUrl>https://github.com/iyulab/ClosedXML.Report.XLCustom</PackageProjectUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/iyulab-rnd/public/main/images/iyulab_128.png</PackageIconUrl>
+    <PackageIcon>logo.png</PackageIcon>
     <PackageTags>ClosedXML, ClosedXML.Report, ClosedXML.Report.XLCustom</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
