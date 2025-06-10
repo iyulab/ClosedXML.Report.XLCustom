@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <PackageReference Include="ClosedXML.Report" Version="0.2.12" />
-    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.8" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.9" />
     <PackageReference Include="Svg.Skia" Version="3.0.3" />
   </ItemGroup>
 
